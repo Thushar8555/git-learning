@@ -9,3 +9,4 @@
 git log [command for listing commit history]
 <git remote add name remote-path
 <get remote -v [list all remote]
+<git branch [list all branchesgit]
