@@ -7,3 +7,4 @@
 >git add -A [command for adding all untracked files to staging area]
 >git commit -m"commit message"[adding staged file to local repostory]
 git log [command for listing commit history]
+<git remote add name remote-path
