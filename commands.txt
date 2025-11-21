@@ -8,3 +8,4 @@
 >git commit -m"commit message"[adding staged file to local repostory]
 git log [command for listing commit history]
 <git remote add name remote-path
+<get remote -v [list all remote]
